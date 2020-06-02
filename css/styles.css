@@ -6,6 +6,18 @@
   display: none;
 }
 
+#both-showing {
+  display: none;
+}
+
+#kitten-showing {
+  display: none;
+}
+
+#puppy-showing {
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
